@@ -1,0 +1,2 @@
+# QAFundamentalsandManualTestingOctober2023Public
+Course in Softuni
